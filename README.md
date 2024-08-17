@@ -67,7 +67,3 @@ The notebook includes the following sections:
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or additional features, please fork the repository and submit a pull request.
-
-## Acknowledgments
-
-- Thank you to the contributors and the community for their support and resources in developing this project.
